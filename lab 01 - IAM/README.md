@@ -10,7 +10,7 @@ Nesta parte, vamos criar um usuário com permissões de administrador pelo AWS C
   1.2. Clique em **Users**
   1.3. Clique em **Add User**
 
-![Image 01](https://d2yblsmsldwfto.cloudfront.net/lab01/lab-01-iam-01.png)
+![Image 01](lab-01-iam-01.png)
 
 
   1.4. Defina o nome do usuário, escolhendo o tipo de acesso. *Programmatic Access*, para permitir utilização do CLI, ou *AWS Management Console Access*, para permitir login e acesso pelo console da AWS. Clique em **Next: Permissions**.

@@ -6,6 +6,8 @@
 - [Lab 02 - Billing Alarm](https://github.com/pedropisa/aws-labs/tree/master/lab%2002%20-%20Billing%20Alarm)
 - [Lab 03 - S3](https://github.com/pedropisa/aws-labs/tree/master/lab%2003%20-%20S3)
 - [Lab 04 - S3 Versioning](https://github.com/pedropisa/aws-labs/tree/master/lab%2004%20-%20S3%20Versioning)
+
+<!--
 - [Lab 05 - S3 Cross Region Replication](https://github.com/pedropisa/aws-labs/tree/master/lab%2005%20-%20S3%20Cross%20Region%20Replication)
 - [Lab 06 - CloudFront](https://github.com/pedropisa/aws-labs/tree/master/lab%2006%20-%20CloudFront)
 - [Lab 07 - EC2](https://github.com/pedropisa/aws-labs/tree/master/lab%2007%20-%20EC2)
@@ -27,3 +29,4 @@
 - [Lab 23 - NACL](https://github.com/pedropisa/aws-labs/tree/master/lab%2023%20-%20NACL)
 - [Lab 24 - Serverless Website](https://github.com/pedropisa/aws-labs/tree/master/lab%2024%20-%20Serverless%20Website)
 - [Lab 25 - Alexa Skill](https://github.com/pedropisa/aws-labs/tree/master/lab%2025%20-%20Alexa%20Skill)
+-->
