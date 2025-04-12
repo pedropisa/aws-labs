@@ -25,12 +25,12 @@
 
 2.2. Em Configure Alerts, clique em **Add an alert threshould** para Alert #1, escolha *Actual* para criar uma notificação para gastos até o momento atual da conta e Forecast para criar uma notificação para gastos previstos no período, de acordo com o padrão de consumo até o momento. Em **Alert Threshold**, insira o valor para o qual você deseja ser notificado. Insira um valor absoluto ou uma porcentagem. Por exemplo, para um orçamento de 200 USD, se você quiser ser notificado ao atingir 160 USD (80% de seu orçamento), insira 160 para um orçamento absoluto ou 80 para uma porcentagem do orçamento.
 
-2.3 Em **Email Contacts**, digite os endereços de e-mail para os quais você deseja que as notificações sejam enviadas e clique em **Add email contact**. Separe vários endereços de e-mail com uma vírgula. Uma notificação pode ter até 10 endereços de e-mail.
+2.3 Em **Email recipients**, digite os endereços de e-mail para os quais você deseja que as notificações sejam enviadas. Separe vários endereços de e-mail com uma vírgula. Uma notificação pode ter até 10 endereços de e-mail.
 
 ![Image 02](lab-02-billing-02.png)
 
 
 2.4 Clique em **Next**. E siga para a tela de **Review**.
 
-2.6. Revise as configurações do orçamento e clique em **Create**.
+2.6. Revise as configurações do orçamento e clique em **Create budget**.
 
